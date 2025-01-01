@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom, #383c46, #242c3a);
+    color: #ffffff;
+    text-align: center;
+}
+
+.timer {
+    font-size: 3rem;
+    background: #00000080;
+    padding: 20px;
+    border-radius: 10px;
+}
